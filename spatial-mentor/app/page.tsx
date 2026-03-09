@@ -1,5 +1,5 @@
-import SessionRoom from "@/components/session/SessionRoom"
+import { redirect } from "next/navigation"
 
 export default function HomePage() {
-  return <SessionRoom />
+  redirect("/session/demo")
 }
