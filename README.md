@@ -1,5 +1,6 @@
 # Spatial Mentor
 AI USAGE: The code is majorly written using AI (Opus 4.6 and GPT 5.4 with some design done by us)
+
 A synchronous remote teaching system for 3D CAD workflows where experts coach novices using embodied communication — hand gestures, spatial annotations, and real-time feedback — instead of relying only on screen sharing.
 
 ## Why It Matters
